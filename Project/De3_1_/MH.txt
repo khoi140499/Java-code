@@ -1,0 +1,44 @@
+1000
+mh1
+hang thoi trang
+5000.0
+1001
+mh2
+hang dien may
+12000.0
+1002
+mh3
+hang gia dung
+111000.0
+1003
+mh4
+hang thoi trang
+7000.0
+1004
+mh5
+hang thoi trang
+9000.0
+1005
+mh6
+hang tieu dung
+1000000.0
+1006
+mh7
+hang dien may
+1700000.0
+1007
+mh8
+hang dien may
+1900000.0
+1008
+mh9
+hang dien may
+6900000.0
+1009
+mh10
+hang dien may
+200000.0
+1010
+mh11
+hang dien may
+200000.0

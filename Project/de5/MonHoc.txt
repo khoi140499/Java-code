@@ -1,0 +1,36 @@
+100
+Dai So
+3
+dai cuong
+101
+Giai Tich
+3
+dai cuong
+102
+Tin hoc co so 2
+2
+co so nghanh
+103
+C++
+3
+co so nghanh
+104
+Lap trinh huong doi tuong
+3
+chuyen nghanh
+105
+Lap trinh web
+3
+chuyen nghanh
+106
+Vat ly 3 va thi nghiem
+3
+dai cuong
+107
+Mang may tinh
+3
+co so nghanh
+108
+Co so du lieu
+3
+co so nghanh

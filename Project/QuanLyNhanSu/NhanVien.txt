@@ -1,0 +1,45 @@
+1000
+Hoang Dang Khoi
+Bac Giang
+0388618961
+2
+1001
+An Quang Ngoc
+Ninh Binh
+0332423444
+4
+1002
+Dinh The Vinh
+Thai Binh
+0382333322
+1
+1003
+To Van Quyen
+Ninh Binh
+0233223112
+7
+1004
+Dao Anh Thang
+Ha Noi
+0123233432
+5
+1005
+Dao Huy Hoang
+Hai Duong
+0234234333
+9
+1006
+Nguyen Ha Giang My
+Ha Noi
+098627384
+4
+1007
+Nguyen Ha Giang My
+Ha Noi
+098657875
+7
+1007
+Tran Thi Linh
+Ha Noi
+032456424
+7

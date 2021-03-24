@@ -1,0 +1,40 @@
+10000
+Hoang Dang Khoi
+Bac Giang
+0388618961
+ca nhan
+10001
+To Van Quyen
+Ninh Binh
+0388618961
+dai dien don vi hanh chinh
+10002
+An Quang Ngoc
+Ninh Binh
+0388618961
+dai dien don vi kinh doanh
+10003
+Dinh The Vinh
+Thai Binh
+0388618961
+dai dien don vi kinh doanh
+10004
+Nguyen Ha Giang My
+Ha Noi
+0976835058
+ca nhan
+10005
+Dao Huy Hoang
+Thai Binh
+0388618961
+dai dien don vi hanh chinh
+10006
+Le Van Son
+Bac Giang
+0986897098
+ca nhan
+10007
+Nguyen Thi Ha
+Ninh Binh
+0986543467
+ca nhan

@@ -1,0 +1,35 @@
+1000
+giay adidas
+hang thoi trang
+800000.0
+1000000.0
+1001
+rau muong
+hang tieu dung
+1000.0
+3000.0
+1002
+rau cu
+hang tieu dung
+1000.0
+3000.0
+1003
+giay nike
+hang tieu dung
+500000.0
+600000.0
+1004
+nikia 7
+hang dien may
+4000000.0
+4500000.0
+1005
+HP probook 440 g6
+hang dien may
+1.5E7
+1.6E7
+1006
+chao ran
+hang gia dung
+150000.0
+200000.0

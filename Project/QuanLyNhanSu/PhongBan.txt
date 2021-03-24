@@ -1,0 +1,20 @@
+1000
+Phong quan ly
+none
+16
+1001
+Phong hanh chinh
+none
+14
+1002
+Phong kinh doanh
+none
+11
+1003
+Phong ke toan
+none
+19
+1004
+Van phong dai dien
+none
+17

@@ -1,0 +1,20 @@
+100
+Thoai
+2000
+so luot
+101
+Nhan tin
+200
+so luot
+102
+Internet
+220000
+thang
+103
+3G-4G
+20000
+MB
+104
+Combo thoai + nhan tin
+100000
+ngay
